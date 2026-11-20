@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Personalized Diet Recommendation System
 
 **Current release:** research prototype v1.3  
@@ -88,3 +89,6 @@ The INDB page describes recipe quantities, serving sizes and nutrient calculatio
 ## Continuity
 
 Read [`docs/ROADMAP.md`](docs/ROADMAP.md) before starting the next feature. Record every change in `CHANGELOG.md`, add tests, update the data provenance and keep this project as a research prototype until independent validation and clinical governance are completed.
+=======
+# diet_recommendation_project
+>>>>>>> 27de8faf95a6476ccd6f36d28fc3044ce719b01a
