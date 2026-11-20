@@ -1,0 +1,26 @@
+food_id,name,kcal,protein_g,carbs_g,fat_g,fiber_g,allergens,tags,data_quality,preparation_state,data_source
+rice_cooked,Cooked rice,130,2.7,28.2,0.3,0.4,,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+millet_cooked,Cooked millet,119,3.5,23.7,1.0,1.3,,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+oats_dry,Dry oats,389,16.9,66.3,6.9,10.6,gluten,vegan;vegetarian,illustrative_estimate,dry,project_demo_estimate
+milk,Milk,61,3.2,4.8,3.3,0,milk,vegetarian,illustrative_estimate,ready_to_eat_or_as_sold,project_demo_estimate
+banana,Banana,89,1.1,22.8,0.3,2.6,,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+apple,Apple,52,0.3,13.8,0.2,2.4,,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+idli,Idli,146,4.5,29.0,0.7,1.5,,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+sambar,Sambar,65,3.0,9.0,1.5,2.5,legume,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+poha,Poha cooked,130,2.5,25.0,2.0,1.5,,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+peanuts,Peanuts,567,25.8,16.1,49.2,8.5,peanut,vegan;vegetarian,illustrative_estimate,ready_to_eat_or_as_sold,project_demo_estimate
+mixed_vegetables,Mixed vegetables cooked,65,2.5,12.0,0.5,4.0,,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+semolina,Semolina,360,12.7,72.8,1.1,3.9,wheat;gluten,vegan;vegetarian,illustrative_estimate,dry,project_demo_estimate
+besan,Gram flour,387,22.4,57.8,6.7,10.8,legume,vegan;vegetarian,illustrative_estimate,dry,project_demo_estimate
+oil,Vegetable oil,884,0,0,100,0,,vegan;vegetarian,illustrative_estimate,as_sold,project_demo_estimate
+curd,Plain curd,61,3.5,4.7,3.3,0,milk,vegetarian,illustrative_estimate,ready_to_eat_or_as_sold,project_demo_estimate
+rice_dal,Dal cooked,116,7.5,20.0,0.4,7.0,legume,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+chickpeas,Chickpeas cooked,164,8.9,27.4,2.6,7.6,legume,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+tofu,Tofu,76,8.0,1.9,4.8,0.3,soy,vegan;vegetarian,illustrative_estimate,ready_to_eat_or_as_sold,project_demo_estimate
+paneer,Paneer,265,18.3,1.2,20.8,0,milk,vegetarian,illustrative_estimate,ready_to_eat_or_as_sold,project_demo_estimate
+chicken,Chicken cooked,165,31.0,0,3.6,0,,non-vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+egg,Boiled egg,155,13.0,1.1,11.0,0,egg,non-vegetarian,illustrative_estimate,ready_to_eat_or_as_sold,project_demo_estimate
+whole_wheat_roti,Whole-wheat roti,297,9.0,55.0,4.0,7.0,wheat;gluten,vegan;vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+fish,Fish cooked,128,26.0,0,2.7,0,fish,non-vegetarian,illustrative_estimate,cooked_or_prepared,project_demo_estimate
+roasted_chana,Roasted chana,369,22.0,58.0,5.0,16.0,legume,vegan;vegetarian,illustrative_estimate,ready_to_eat_or_as_sold,project_demo_estimate
+almonds,Almonds,579,21.2,21.6,49.9,12.5,tree nuts,vegan;vegetarian,illustrative_estimate,ready_to_eat_or_as_sold,project_demo_estimate
